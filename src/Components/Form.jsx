@@ -45,7 +45,7 @@ const Form = () => {
     console.log(data);
 
     alert("Job created successfully");
-    window.location.href = "./displayjobs";
+    window.location.href = "/displayjobs";
 
   };
 
